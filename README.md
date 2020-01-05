@@ -1,5 +1,7 @@
 # Kaggle - Categorical Features II
 
+*** 
+
 Can you find more cat in your dat?
 
 We loved the participation and engagement with the first Cat in the Dat competition.
